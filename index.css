@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+#top h1 {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  line-height: 0.5;
+  font-size: 4em;
+}
+
+#top p {
+  font-family: "Share Tech Mono", monospace;
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+#top {
+  background-color: #f1ddbf;
+  box-sizing: border-box;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
